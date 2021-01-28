@@ -1,0 +1,9 @@
+dd/MM/yyy - v[1].[2].[3]-[X]
+============================
+- Descrever em tópicos o que foi liberado na versão.
+
+
+** 1 - Major Version: Incrementada quando há quebra de contrato
+** 2 - Minor Version/Release Candidate: Incrementada com novas features
+** 3 - Patch: Incrementada com correção de bugs
+** X - Informação adicional: Adicionada quando uma versão está em estado probatório, p.ex: SNAPSHOT, CR, Beta, Alpha.
